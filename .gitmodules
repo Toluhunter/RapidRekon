@@ -1,0 +1,9 @@
+[submodule "app/backend"]
+	path = app/backend
+	url = git@github.com:Toluhunter/RapidRekon-Backend.git
+[submodule "app/frontend"]
+	path = app/frontend
+	url = git@github.com:Toluhunter/RapidRekon-Frontend.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = git@github.com:Toluhunter/RapidRekon-Infrastructure.git
